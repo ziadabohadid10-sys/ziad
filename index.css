@@ -38,7 +38,7 @@ body{
 }
 @media (max-width:1000px){
 .ko{
-    font-size: large;
+    font-size: x-large;
     display: flex;
     text-align: center;
     justify-content: center;
@@ -50,7 +50,7 @@ body{
 
 }
 .im{
-    gap:20px;
+    gap:70px;
 }
 .bo{
     height:40px;
