@@ -26,8 +26,8 @@ body{
 .bo{
     background-color:cadetblue;
     color: red;
-    width: 100px;
-    margin-top:100px;
+    width: 70px;
+    margin-top:150px;
     margin-left:40px;
     cursor: pointer;
 }
@@ -38,7 +38,7 @@ body{
 }
 @media (max-width:1000px){
 .ko{
-    font-size: x-large;
+    font-size: 30px;
     display: flex;
     text-align: center;
     justify-content: center;
@@ -54,6 +54,5 @@ body{
 }
 .bo{
     height:50px;
-    width:150px;
 }
 }
