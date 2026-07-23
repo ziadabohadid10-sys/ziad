@@ -1,0 +1,60 @@
+body{
+    background-color:blue;
+}
+.lo{
+    display: flex;
+    justify-content:flex-end;
+}
+.logo{
+    height:60px;
+    border-radius:50px;
+    border-radius:50px;
+}
+.ko{
+    color: rgb(71, 165, 42);
+    display: flex;
+    justify-items:center;
+    justify-content: center;
+}
+.im{
+    height:53vh;
+  gap: 100px;
+   
+    display: flex;
+    align-items: flex-end;
+}
+.bo{
+    background-color:cadetblue;
+    color: red;
+    width: 100px;
+    margin-top:100px;
+    margin-left:40px;
+    cursor: pointer;
+}
+.bo:hover{
+    background-color: chartreuse;
+    color: darkkhaki;
+    transform: scale(1.1);
+}
+@media (max-width:1000px){
+.ko{
+    font-size: xx-large;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    
+    height: 90px;
+
+}
+.im{
+    gap:140px;
+}
+.bo{
+    font-size: 20.5px;
+    height:40px;
+    width:150px;
+}
+}
